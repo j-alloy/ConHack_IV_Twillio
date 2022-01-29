@@ -1,2 +1,2 @@
-# ConHack_IV_Twillio
-To test the twillio API
+# ConHack_IV Twillio
+To build an Application with a Twillio API that is innovative and the Best of the Best
